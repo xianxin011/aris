@@ -1,4 +1,4 @@
-import { useReactive } from "./components/custom";
+import { useReactive } from "../components/custom";
 import { Button, Input } from "antd";
 
 const Index = () => {
